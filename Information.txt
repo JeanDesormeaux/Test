@@ -4,4 +4,8 @@ Ok!!!
 
 New Branch
 
+<<<<<<< HEAD
 Copy 2
+=======
+Original
+>>>>>>> 51e5b3b92ce11ee01b00b63615da8711a999ac2f
