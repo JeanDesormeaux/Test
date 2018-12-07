@@ -5,54 +5,54 @@
 #    Command-line to run this workspace:
 #    
 #    
-#    C:\apps\FME_2017_B17652\fme.exe C:\Users\jeand\Desktop\none2none.fmw
+#    C:\apps\FME_2017_B17652\fme.exe E:\DEV\Test_GitHub\Test\none2none.fmw
 #    
 #    
-#!   REDIRECT_TERMINATORS="NONE"
-#!   CATEGORY=""
-#!   FME_GEOMETRY_HANDLING="Enhanced"
-#!   TERMINATE_REJECTED="NO"
-#!   FME_BUILD_NUM="17652"
-#!   BEGIN_PYTHON=""
-#!   FME_IMPLICIT_CSMAP_REPROJECTION_MODE="Auto"
-#!   USE_MARKDOWN=""
-#!   LOG_FILE=""
 #!   LAST_SAVE_BUILD="FME(R) 2017.1.1.1 (20171014 - Build 17652 - WIN32)"
-#!   FME_REPROJECTION_ENGINE="FME"
-#!   END_PYTHON=""
-#!   FME_STROKE_MAX_DEVIATION="0"
-#!   BEGIN_TCL=""
-#!   DESTINATION_ROUTING_FILE=""
-#!   EXPLICIT_BOOKMARK_ORDER="false"
-#!   FME_DOCUMENT_PRIORGUID="a66d2899-4368-4048-9f72-ebf1a96f0096"
-#!   DESCRIPTION=""
-#!   VIEW_POSITION="0 0"
-#!   FME_DOCUMENT_GUID="3923f71a-6c26-43a0-8ffe-3ba471eae278"
-#!   END_TCL=""
-#!   DOC_TOP_LEFT="365.629 -706.257"
-#!   WORKSPACE_VERSION="1"
-#!   FME_SERVER_SERVICES=""
-#!   SHOW_INFO_NODES="true"
-#!   SOURCE_ROUTING_FILE=""
 #!   DESTINATION="NONE"
-#!   ATTR_TYPE_ENCODING="SDF"
+#!   VIEW_POSITION="-393.754 525.005"
+#!   FME_REPROJECTION_ENGINE="FME"
+#!   DOC_EXTENTS="907.128 1e-05"
 #!   MAX_LOG_FEATURES="200"
-#!   SHOW_ANNOTATIONS="true"
-#!   SOURCE="NONE"
-#!   PASSWORD=""
-#!   IGNORE_READER_FAILURE="No"
-#!   MULTI_WRITER_DATASET_ORDER="BY_ID"
-#!   MARKDOWN_USAGE=""
-#!   LOG_MAX_RECORDED_FEATURES="200"
-#!   TITLE=""
-#!   USAGE=""
-#!   LAST_SAVE_DATE="2018-12-07T06:18:22"
-#!   ZOOM_SCALE="100"
-#!   WARN_INVALID_XFORM_PARAM="Yes"
+#!   LAST_SAVE_DATE="2018-12-07T07:33:26"
 #!   MARKDOWN_DESCRIPTION=""
-#!   PYTHON_COMPATIBILITY="2or3"
 #!   HISTORY=""
-#!   DOC_EXTENTS="672.751 1e-05"
+#!   BEGIN_PYTHON=""
+#!   MARKDOWN_USAGE=""
+#!   ZOOM_SCALE="100"
+#!   FME_DOCUMENT_GUID="7a7c2852-8f43-49a5-a780-5d4dde680aaf"
+#!   IGNORE_READER_FAILURE="No"
+#!   SHOW_ANNOTATIONS="true"
+#!   ATTR_TYPE_ENCODING="SDF"
+#!   PASSWORD=""
+#!   END_TCL=""
+#!   CATEGORY=""
+#!   USE_MARKDOWN=""
+#!   SOURCE_ROUTING_FILE=""
+#!   USAGE=""
+#!   WORKSPACE_VERSION="1"
+#!   END_PYTHON=""
+#!   REDIRECT_TERMINATORS="NONE"
+#!   FME_STROKE_MAX_DEVIATION="0"
+#!   DESTINATION_ROUTING_FILE=""
+#!   DESCRIPTION=""
+#!   LOG_FILE=""
+#!   SHOW_INFO_NODES="true"
+#!   BEGIN_TCL=""
+#!   MULTI_WRITER_DATASET_ORDER="BY_ID"
+#!   SOURCE="NONE"
+#!   PYTHON_COMPATIBILITY="2or3"
+#!   TERMINATE_REJECTED="NO"
+#!   LOG_MAX_RECORDED_FEATURES="200"
+#!   DOC_TOP_LEFT="365.629 -706.257"
+#!   TITLE=""
+#!   FME_IMPLICIT_CSMAP_REPROJECTION_MODE="Auto"
+#!   FME_DOCUMENT_PRIORGUID="a66d2899-4368-4048-9f72-ebf1a96f0096,3923f71a-6c26-43a0-8ffe-3ba471eae278"
+#!   WARN_INVALID_XFORM_PARAM="Yes"
+#!   FME_SERVER_SERVICES=""
+#!   EXPLICIT_BOOKMARK_ORDER="false"
+#!   FME_GEOMETRY_HANDLING="Enhanced"
+#!   FME_BUILD_NUM="17652"
 #! >
 #! <DATASETS>
 #! </DATASETS>
@@ -87,23 +87,23 @@
 #!     <OUTPUT_FEAT NAME="CREATED"/>
 #!     <FEAT_COLLAPSED COLLAPSED="0"/>
 #!     <XFORM_ATTR ATTR_NAME="_creation_instance" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="CRE_ATTR" PARM_VALUE="_creation_instance"/>
-#!     <XFORM_PARM PARM_NAME="GEOMTYPE" PARM_VALUE="Geometry Object"/>
-#!     <XFORM_PARM PARM_NAME="ATEND" PARM_VALUE="no"/>
-#!     <XFORM_PARM PARM_NAME="GEOM" PARM_VALUE="&lt;lt&gt;?xml&lt;space&gt;version=&lt;quote&gt;1.0&lt;quote&gt;&lt;space&gt;encoding=&lt;quote&gt;US_ASCII&lt;quote&gt;&lt;space&gt;standalone=&lt;quote&gt;no&lt;quote&gt;&lt;space&gt;?&lt;gt&gt;&lt;lt&gt;geometry&lt;space&gt;dimension=&lt;quote&gt;2&lt;quote&gt;&lt;gt&gt;&lt;lt&gt;null&lt;solidus&gt;&lt;gt&gt;&lt;lt&gt;&lt;solidus&gt;geometry&lt;gt&gt;"/>
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Creator"/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="COORDS" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="COORDSYS" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="ATEND" PARM_VALUE="no"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="NUM" PARM_VALUE="1"/>
+#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="GEOMTYPE" PARM_VALUE="Geometry Object"/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Creator"/>
+#!     <XFORM_PARM PARM_NAME="GEOM" PARM_VALUE="&lt;lt&gt;?xml&lt;space&gt;version=&lt;quote&gt;1.0&lt;quote&gt;&lt;space&gt;encoding=&lt;quote&gt;US_ASCII&lt;quote&gt;&lt;space&gt;standalone=&lt;quote&gt;no&lt;quote&gt;&lt;space&gt;?&lt;gt&gt;&lt;lt&gt;geometry&lt;space&gt;dimension=&lt;quote&gt;2&lt;quote&gt;&lt;gt&gt;&lt;lt&gt;null&lt;solidus&gt;&lt;gt&gt;&lt;lt&gt;&lt;solidus&gt;geometry&lt;gt&gt;"/>
+#!     <XFORM_PARM PARM_NAME="CRE_ATTR" PARM_VALUE="_creation_instance"/>
+#!     <XFORM_PARM PARM_NAME="COORDSYS" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="3"
 #!   TYPE="PythonCaller"
 #!   VERSION="4"
-#!   POSITION="1038.38 -706.257"
-#!   BOUNDING_RECT="1038.38 -706.257 -1 -1"
+#!   POSITION="1272.76 -706.257"
+#!   BOUNDING_RECT="1272.76 -706.257 -1 -1"
 #!   ORDER="5e+14"
 #!   PARMS_EDITED="false"
 #!   ENABLED="true"
@@ -112,15 +112,15 @@
 #!     <OUTPUT_FEAT NAME="OUTPUT"/>
 #!     <FEAT_COLLAPSED COLLAPSED="0"/>
 #!     <XFORM_ATTR ATTR_NAME="_creation_instance" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="PYTHONSOURCE" PARM_VALUE="import&lt;space&gt;fme&lt;lf&gt;import&lt;space&gt;fmeobjects&lt;lf&gt;#&lt;space&gt;Template&lt;space&gt;Function&lt;space&gt;interface:&lt;lf&gt;#&lt;space&gt;When&lt;space&gt;using&lt;space&gt;this&lt;space&gt;function&lt;comma&gt;&lt;space&gt;make&lt;space&gt;sure&lt;space&gt;its&lt;space&gt;name&lt;space&gt;is&lt;space&gt;set&lt;space&gt;as&lt;space&gt;the&lt;space&gt;value&lt;space&gt;of&lt;lf&gt;#&lt;space&gt;the&lt;space&gt;&lt;apos&gt;Class&lt;space&gt;or&lt;space&gt;Function&lt;space&gt;to&lt;space&gt;Process&lt;space&gt;Features&lt;apos&gt;&lt;space&gt;transformer&lt;space&gt;parameter&lt;lf&gt;def&lt;space&gt;processFeature&lt;openparen&gt;feature&lt;closeparen&gt;:&lt;lf&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;pass&lt;lf&gt;&lt;lf&gt;#&lt;space&gt;Template&lt;space&gt;Class&lt;space&gt;Interface:&lt;lf&gt;#&lt;space&gt;When&lt;space&gt;using&lt;space&gt;this&lt;space&gt;class&lt;comma&gt;&lt;space&gt;make&lt;space&gt;sure&lt;space&gt;its&lt;space&gt;name&lt;space&gt;is&lt;space&gt;set&lt;space&gt;as&lt;space&gt;the&lt;space&gt;value&lt;space&gt;of&lt;lf&gt;#&lt;space&gt;the&lt;space&gt;&lt;apos&gt;Class&lt;space&gt;or&lt;space&gt;Function&lt;space&gt;to&lt;space&gt;Process&lt;space&gt;Features&lt;apos&gt;&lt;space&gt;transformer&lt;space&gt;parameter&lt;lf&gt;class&lt;space&gt;FeatureProcessor&lt;openparen&gt;object&lt;closeparen&gt;:&lt;lf&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;def&lt;space&gt;__init__&lt;openparen&gt;self&lt;closeparen&gt;:&lt;lf&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;pass&lt;lf&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;def&lt;space&gt;input&lt;openparen&gt;self&lt;comma&gt;feature&lt;closeparen&gt;:&lt;lf&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;self.pyoutput&lt;openparen&gt;feature&lt;closeparen&gt;&lt;lf&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;def&lt;space&gt;close&lt;openparen&gt;self&lt;closeparen&gt;:&lt;lf&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;pass"/>
-#!     <XFORM_PARM PARM_NAME="HIDE_ATTRIBUTES" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="LIST_ATTRS" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="ADVANCED_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="PythonCaller"/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="PYTHONSYMBOL" PARM_VALUE="FeatureProcessor"/>
 #!     <XFORM_PARM PARM_NAME="NEW_ATTRIBUTES" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="ADVANCED_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="PythonCaller"/>
+#!     <XFORM_PARM PARM_NAME="LIST_ATTRS" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="PYTHONSOURCE" PARM_VALUE="import&lt;space&gt;fme&lt;lf&gt;import&lt;space&gt;fmeobjects&lt;lf&gt;#&lt;space&gt;Template&lt;space&gt;Function&lt;space&gt;interface:&lt;lf&gt;#&lt;space&gt;When&lt;space&gt;using&lt;space&gt;this&lt;space&gt;function&lt;comma&gt;&lt;space&gt;make&lt;space&gt;sure&lt;space&gt;its&lt;space&gt;name&lt;space&gt;is&lt;space&gt;set&lt;space&gt;as&lt;space&gt;the&lt;space&gt;value&lt;space&gt;of&lt;lf&gt;#&lt;space&gt;the&lt;space&gt;&lt;apos&gt;Class&lt;space&gt;or&lt;space&gt;Function&lt;space&gt;to&lt;space&gt;Process&lt;space&gt;Features&lt;apos&gt;&lt;space&gt;transformer&lt;space&gt;parameter&lt;lf&gt;def&lt;space&gt;processFeature&lt;openparen&gt;feature&lt;closeparen&gt;:&lt;lf&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;pass&lt;lf&gt;&lt;lf&gt;#&lt;space&gt;Template&lt;space&gt;Class&lt;space&gt;Interface:&lt;lf&gt;#&lt;space&gt;When&lt;space&gt;using&lt;space&gt;this&lt;space&gt;class&lt;comma&gt;&lt;space&gt;make&lt;space&gt;sure&lt;space&gt;its&lt;space&gt;name&lt;space&gt;is&lt;space&gt;set&lt;space&gt;as&lt;space&gt;the&lt;space&gt;value&lt;space&gt;of&lt;lf&gt;#&lt;space&gt;the&lt;space&gt;&lt;apos&gt;Class&lt;space&gt;or&lt;space&gt;Function&lt;space&gt;to&lt;space&gt;Process&lt;space&gt;Features&lt;apos&gt;&lt;space&gt;transformer&lt;space&gt;parameter&lt;lf&gt;class&lt;space&gt;FeatureProcessor&lt;openparen&gt;object&lt;closeparen&gt;:&lt;lf&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;def&lt;space&gt;__init__&lt;openparen&gt;self&lt;closeparen&gt;:&lt;lf&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;pass&lt;lf&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;def&lt;space&gt;input&lt;openparen&gt;self&lt;comma&gt;feature&lt;closeparen&gt;:&lt;lf&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;self.pyoutput&lt;openparen&gt;feature&lt;closeparen&gt;&lt;lf&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;def&lt;space&gt;close&lt;openparen&gt;self&lt;closeparen&gt;:&lt;lf&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;pass"/>
+#!     <XFORM_PARM PARM_NAME="HIDE_ATTRIBUTES" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! </TRANSFORMERS>
 #! <FEAT_LINKS>
